@@ -1,0 +1,8 @@
+{
+  "name": "Remix JAUS 2026 — CRP",
+  "description": "Enterprise Resource Planning platform for Jai Ambe Utsav Samiti (Navratri Mandal) managing members, Vargani collections, Navratri events, and public broadcasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
